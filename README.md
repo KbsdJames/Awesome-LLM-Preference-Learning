@@ -6,6 +6,9 @@ This repo contains a curated list of [📙Awesome LLM Preference Learning Papers
 ![Head Picture](./img/Formulation.png)
 
 
+# 👉 Running Examples
+![Running Examples](./img/Running_examples.png)
+
 # 📖 Paper List 
 <div id="paperlist"></div>
 
@@ -110,6 +113,8 @@ This repo contains a curated list of [📙Awesome LLM Preference Learning Papers
 
 ## 3. Algorithms
 ### 3.1 Pointwise Methods
+![Pointwise Algorithm Examples](./img/Pointwise_methods.png)
+
   [STaR: Bootstrapping Reasoning With Reasoning (2022.5)](https://arxiv.org/abs/2203.14465)
 
   [RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment (2023.4)](https://arxiv.org/abs/2304.06767)
@@ -153,7 +158,7 @@ This repo contains a curated list of [📙Awesome LLM Preference Learning Papers
   [Learn Your Reference Model for Real Good Alignment (2024.4)](https://arxiv.org/abs/2404.09656)
 
   [Statistical Rejection Sampling Improves Preference Optimization (2023.9)](https://arxiv.org/abs/2309.06657)
-  
+
   [Controllable Preference Optimization: Toward Controllable Multi-Objective Alignment (2024.2)](https://arxiv.org/abs/2402.19085)
 
   [MAPO: Advancing Multilingual Reasoning through Multilingual Alignment-as-Preference Optimization (2024.1)](https://arxiv.org/abs/2401.06838)
@@ -226,11 +231,6 @@ This repo contains a curated list of [📙Awesome LLM Preference Learning Papers
 
   [Wider and Deeper LLM Networks are Fairer LLM Evaluators (2023.8)](https://arxiv.org/abs/2308.01862)
 
-# 👉 Running Examples
-
-![Pointwise Algorithm Examples](./img/Pointwise_methods.png)
-
-![Running Examples](./img/Running_examples.png)
 
 # 🌟Contribute
 Welcome to star & submit a PR to this repo! 
