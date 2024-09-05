@@ -237,8 +237,14 @@ Welcome to star & submit a PR to this repo!
 
 
 # 📝 Citation
-```
-{
-  Coming Soon
+```bibtex
+@misc{gao2024unifiedviewpreferencelearning,
+      title={Towards a Unified View of Preference Learning for Large Language Models: A Survey}, 
+      author={Bofei Gao and Feifan Song and Yibo Miao and Zefan Cai and Zhe Yang and Liang Chen and Helan Hu and Runxin Xu and Qingxiu Dong and Ce Zheng and Wen Xiao and Ge Zhang and Daoguang Zan and Keming Lu and Bowen Yu and Dayiheng Liu and Zeyu Cui and Jian Yang and Lei Sha and Houfeng Wang and Zhifang Sui and Peiyi Wang and Tianyu Liu and Baobao Chang},
+      year={2024},
+      eprint={2409.02795},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.02795}, 
 }
 ```
