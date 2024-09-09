@@ -1,5 +1,17 @@
 # 📢 Introduction
-**Awesome-LLM-Preference-Learning**: The official repository of our survey paper: Towards a Unified View of Preference Learning for Large Language Models: A Survey.
+**Awesome-LLM-Preference-Learning**: The official repository of our survey paper: "[Towards a Unified View of Preference Learning for Large Language Models: A Survey](https://arxiv.org/abs/2409.02795)".
+
+
+<div style="text-align: center;">
+    <a href="https://arxiv.org/abs/2409.02795">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Paper-Unified%20Vew:%20Preference%20Learning-blue">
+    </a>
+    <a href="https://aeolian-agenda-626.notion.site/Towards-a-unified-view-of-preference-learning-for-LLMs-A-survey-f09b77391f5a4899998ee4046dc89460">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Notion-Unified%20Vew:%20Preference%20Learning-red">
+    </a>
+</div>
+
+
 
 This repo contains a curated list of [📙Awesome LLM Preference Learning Papers](#paperlist).
 
