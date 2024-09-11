@@ -138,115 +138,115 @@ This repo contains a curated list of [📙Awesome LLM Preference Learning Papers
 
   **Scaling Relationship on Learning Mathematical Reasoning with Large Language Models (2023.8)** *Zheng Yuan, Hongyi Yuan, Chengpeng Li, Guanting Dong, Keming Lu, Chuanqi Tan, Chang Zhou, Jingren Zhou* [\[paper\]](https://arxiv.org/abs/2308.01825)
 
-  **Proximal Policy Optimization Algorithms (2017.7)** *Proximal Policy Optimization Algorithms*  [\[paper\]](https://arxiv.org/abs/1707.06347)
+  **Proximal Policy Optimization Algorithms (2017.7)** *John Schulman, Filip Wolski, Prafulla Dhariwal, Alec Radford, Oleg Klimov*  [\[paper\]](https://arxiv.org/abs/1707.06347)
 
-  **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models (2024.2)**  [\[paper\]](https://arxiv.org/abs/2402.03300)
+  **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models (2024.2)**  *Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya Guo* [\[paper\]](https://arxiv.org/abs/2402.03300)
 
-  [ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models (2023.10)  [\[paper\]](https://arxiv.org/abs/2310.10505)
+  **ReMax: A Simple, Effective, and Efficient Reinforcement Learning Method for Aligning Large Language Models (2023.10)** *Ziniu Li, Tian Xu, Yushun Zhang, Zhihang Lin, Yang Yu, Ruoyu Sun, Zhi-Quan Luo*  [\[paper\]](https://arxiv.org/abs/2310.10505)
 
-  [KTO: Model Alignment as Prospect Theoretic Optimization (2024.2)  [\[paper\]](https://arxiv.org/abs/2402.01306)
+  **KTO: Model Alignment as Prospect Theoretic Optimization (2024.2)** *Kawin Ethayarajh, Winnie Xu, Niklas Muennighoff, Dan Jurafsky, Douwe Kiela*  [\[paper\]](https://arxiv.org/abs/2402.01306)
 ### 3.2 Pairwise Contrasts
-  [Chain of Hindsight Aligns Language Models with Feedback (2023.2)  [\[paper\]](https://arxiv.org/abs/2302.02676)
+  **Chain of Hindsight Aligns Language Models with Feedback (2023.2)** *Hao Liu, Carmelo Sferrazza, Pieter Abbeel*  [\[paper\]](https://arxiv.org/abs/2302.02676)
 
-  [Calibrating Sequence likelihood Improves Conditional Language Generation (2022.9)  [\[paper\]](https://arxiv.org/abs/2210.00045)
+  **Calibrating Sequence likelihood Improves Conditional Language Generation (2022.9)** *Yao Zhao, Misha Khalman, Rishabh Joshi, Shashi Narayan, Mohammad Saleh, Peter J. Liu*  [\[paper\]](https://arxiv.org/abs/2210.00045)
 
-  [Direct Preference Optimization: Your Language Model is Secretly a Reward Model (2023.5)  [\[paper\]](https://arxiv.org/abs/2305.18290)
+  **Direct Preference Optimization: Your Language Model is Secretly a Reward Model (2023.5)** *Rafael Rafailov, Archit Sharma, Eric Mitchell, Stefano Ermon, Christopher D. Manning, Chelsea Finn* [\[paper\]](https://arxiv.org/abs/2305.18290)
 
-  [A General Theoretical Paradigm to Understand Learning from Human Preferences (2023.10)  [\[paper\]](https://arxiv.org/abs/2310.12036)
+  **A General Theoretical Paradigm to Understand Learning from Human Preferences (2023.10)** *Mohammad Gheshlaghi Azar, Mark Rowland, Bilal Piot, Daniel Guo, Daniele Calandriello, Michal Valko, Rémi Munos* [\[paper\]](https://arxiv.org/abs/2310.12036)
   
-  [Direct Alignment of Language Models via Quality-Aware Self-Refinement (2024.5)  [\[paper\]](https://arxiv.org/abs/2405.21040)
+  **Direct Alignment of Language Models via Quality-Aware Self-Refinement (2024.5)** *Runsheng Yu, Yong Wang, Xiaoqi Jiao, Youzhi Zhang, James T. Kwok* [\[paper\]](https://arxiv.org/abs/2405.21040)
   
-  [ORPO: Monolithic Preference Optimization without Reference Model (2024.3)  [\[paper\]](https://arxiv.org/abs/2403.07691)
+  **ORPO: Monolithic Preference Optimization without Reference Model (2024.3)** *Jiwoo Hong, Noah Lee, James Thorne* [\[paper\]](https://arxiv.org/abs/2403.07691)
 
-  [Mallows-DPO: Fine-Tune Your LLM with Preference Dispersions (2024.5)  [\[paper\]](https://arxiv.org/abs/2405.14953)
+  **Mallows-DPO: Fine-Tune Your LLM with Preference Dispersions (2024.5)** *Haoxian Chen, Hanyang Zhao, Henry Lam, David Yao, Wenpin Tang* [\[paper\]](https://arxiv.org/abs/2405.14953)
 
-  [Group Robust Preference Optimization in Reward-free RLHF (2024.5)  [\[paper\]](https://arxiv.org/abs/2405.20304)
+  **Group Robust Preference Optimization in Reward-free RLHF (2024.5)** *Shyam Sundhar Ramesh, Yifan Hu, Iason Chaimalas, Viraj Mehta, Pier Giuseppe Sessa, Haitham Bou Ammar, Ilija Bogunovic* [\[paper\]](https://arxiv.org/abs/2405.20304)
 
-  [Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive (2024.2)  [\[paper\]](https://arxiv.org/abs/2402.13228)
+  **Smaug: Fixing Failure Modes of Preference Optimisation with DPO-Positive (2024.2)** *Arka Pal, Deep Karkhanis, Samuel Dooley, Manley Roberts, Siddartha Naidu, Colin White* [\[paper\]](https://arxiv.org/abs/2402.13228)
 
-  [Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints (2023.9)  [\[paper\]](https://arxiv.org/abs/2309.16240)
+  **Beyond Reverse KL: Generalizing Direct Preference Optimization with Diverse Divergence Constraints (2023.9)** *Chaoqi Wang, Yibo Jiang, Chenghao Yang, Han Liu, Yuxin Chen* [\[paper\]](https://arxiv.org/abs/2309.16240)
 
-  [Towards Efficient Exact Optimization of Language Model Alignment (2024.2)  [\[paper\]](https://arxiv.org/abs/2402.00856)
+  **Towards Efficient Exact Optimization of Language Model Alignment (2024.2)** *Haozhe Ji, Cheng Lu, Yilin Niu, Pei Ke, Hongning Wang, Jun Zhu, Jie Tang, Minlie Huang* [\[paper\]](https://arxiv.org/abs/2402.00856)
 
-  [SimPO: Simple Preference Optimization with a Reference-Free Reward (2024.5)  [\[paper\]](https://arxiv.org/abs/2405.14734)
+  **SimPO: Simple Preference Optimization with a Reference-Free Reward (2024.5)** *Yu Meng, Mengzhou Xia, Danqi Chen* [\[paper\]](https://arxiv.org/abs/2405.14734)
 
-  [sDPO: Don't Use Your Data All at Once (2024.3)  [\[paper\]](https://arxiv.org/abs/2403.19270)
+  **sDPO: Don't Use Your Data All at Once (2024.3)** *Dahyun Kim, Yungi Kim, Wonho Song, Hyeonwoo Kim, Yunsu Kim, Sanghoon Kim, Chanjun Park* [\[paper\]](https://arxiv.org/abs/2403.19270)
 
-  [Learn Your Reference Model for Real Good Alignment (2024.4)  [\[paper\]](https://arxiv.org/abs/2404.09656)
+  **Learn Your Reference Model for Real Good Alignment (2024.4)** *Alexey Gorbatovski, Boris Shaposhnikov, Alexey Malakhov, Nikita Surnachev, Yaroslav Aksenov, Ian Maksimov, Nikita Balagansky, Daniil Gavrilov* [\[paper\]](https://arxiv.org/abs/2404.09656)
 
-  [Statistical Rejection Sampling Improves Preference Optimization (2023.9)  [\[paper\]](https://arxiv.org/abs/2309.06657)
+  **Statistical Rejection Sampling Improves Preference Optimization (2023.9)** *Tianqi Liu, Yao Zhao, Rishabh Joshi, Misha Khalman, Mohammad Saleh, Peter J. Liu, Jialu Liu* [\[paper\]](https://arxiv.org/abs/2309.06657)
 
-  [Controllable Preference Optimization: Toward Controllable Multi-Objective Alignment (2024.2)  [\[paper\]](https://arxiv.org/abs/2402.19085)
+  **Controllable Preference Optimization: Toward Controllable Multi-Objective Alignment (2024.2)** *Yiju Guo, Ganqu Cui, Lifan Yuan, Ning Ding, Jiexin Wang, Huimin Chen, Bowen Sun, Ruobing Xie, Jie Zhou, Yankai Lin, Zhiyuan Liu, Maosong Sun* [\[paper\]](https://arxiv.org/abs/2402.19085)
 
-  [MAPO: Advancing Multilingual Reasoning through Multilingual Alignment-as-Preference Optimization (2024.1)  [\[paper\]](https://arxiv.org/abs/2401.06838)
+  **MAPO: Advancing Multilingual Reasoning through Multilingual Alignment-as-Preference Optimization (2024.1)** *Shuaijie She, Wei Zou, Shujian Huang, Wenhao Zhu, Xiang Liu, Xiang Geng, Jiajun Chen* [\[paper\]](https://arxiv.org/abs/2401.06838)
   
-  [KnowTuning: Knowledge-aware Fine-tuning for Large Language Models (2024.2)  [\[paper\]](https://arxiv.org/abs/2402.11176)
+  **KnowTuning: Knowledge-aware Fine-tuning for Large Language Models (2024.2)** *Yougang Lyu, Lingyong Yan, Shuaiqiang Wang, Haibo Shi, Dawei Yin, Pengjie Ren, Zhumin Chen, Maarten de Rijke, Zhaochun Ren* [\[paper\]](https://arxiv.org/abs/2402.11176)
 
-  [TS-Align: A Teacher-Student Collaborative Framework for Scalable Iterative Finetuning of Large Language Models (2024.5)  [\[paper\]](https://arxiv.org/abs/2405.20215)
+  **TS-Align: A Teacher-Student Collaborative Framework for Scalable Iterative Finetuning of Large Language Models (2024.5)** *Chen Zhang, Chengguang Tang, Dading Chong, Ke Shi, Guohua Tang, Feng Jiang, Haizhou Li* [\[paper\]](https://arxiv.org/abs/2405.20215)
 
-  [Beyond One-Preference-Fits-All Alignment: Multi-Objective Direct Preference Optimization (2023.10)  [\[paper\]](https://arxiv.org/abs/2310.03708)
+  **Beyond One-Preference-Fits-All Alignment: Multi-Objective Direct Preference Optimization (2023.10)** *Zhanhui Zhou, Jie Liu, Jing Shao, Xiangyu Yue, Chao Yang, Wanli Ouyang, Yu Qiao* [\[paper\]](https://arxiv.org/abs/2310.03708)
 
-  [Hybrid Preference Optimization: Augmenting Direct Preference Optimization with Auxiliary Objectives(2024.5)  [\[paper\]](https://arxiv.org/abs/2405.17956)
+  **Hybrid Preference Optimization: Augmenting Direct Preference Optimization with Auxiliary Objectives(2024.5)** *Anirudhan Badrinath, Prabhat Agarwal, Jiajing Xu* [\[paper\]](https://arxiv.org/abs/2405.17956)
 
 ### 3.3 Listwise Contrasts
-  [RRHF: Rank Responses to Align Language Models with Human Feedback without tears (2023.4)  [\[paper\]](https://arxiv.org/abs/2304.05302)
+  **RRHF: Rank Responses to Align Language Models with Human Feedback without tears (2023.4)** *Zheng Yuan, Hongyi Yuan, Chuanqi Tan, Wei Wang, Songfang Huang, Fei Huang* [\[paper\]](https://arxiv.org/abs/2304.05302)
 
-  [Preference Ranking Optimization for Human Alignment (2023.6)  [\[paper\]](https://arxiv.org/abs/2306.17492)
+  **Preference Ranking Optimization for Human Alignment (2023.6)** *Feifan Song, Bowen Yu, Minghao Li, Haiyang Yu, Fei Huang, Yongbin Li, Houfeng Wang* [\[paper\]](https://arxiv.org/abs/2306.17492)
 
-  [CycleAlign: Iterative Distillation from Black-box LLM to White-box Models for Better Human Alignment (2023.10)  [\[paper\]](https://arxiv.org/abs/2310.16271)
+  **CycleAlign: Iterative Distillation from Black-box LLM to White-box Models for Better Human Alignment (2023.10)** *Jixiang Hong, Quan Tu, Changyu Chen, Xing Gao, Ji Zhang, Rui Yan* [\[paper\]](https://arxiv.org/abs/2310.16271)
 
-  [Making Large Language Models Better Reasoners with Alignment (2023.9)  [\[paper\]](https://arxiv.org/abs/2309.02144)
+  **Making Large Language Models Better Reasoners with Alignment (2023.9)** *Peiyi Wang, Lei Li, Liang Chen, Feifan Song, Binghuai Lin, Yunbo Cao, Tianyu Liu, Zhifang Sui* [\[paper\]](https://arxiv.org/abs/2309.02144)
 
-  [Don't Forget Your Reward Values: Language Model Alignment via Value-based Calibration (2024.2)  [\[paper\]](https://arxiv.org/abs/2402.16030)
+  **Don't Forget Your Reward Values: Language Model Alignment via Value-based Calibration (2024.2)** *Xin Mao, Feng-Lin Li, Huimin Xu, Wei Zhang, Anh Tuan Luu* [\[paper\]](https://arxiv.org/abs/2402.16030)
 
-  [LiPO: Listwise Preference Optimization through Learning-to-Rank (2024.2)  [\[paper\]](https://arxiv.org/abs/2402.01878)
+  **LiPO: Listwise Preference Optimization through Learning-to-Rank (2024.2)** *Tianqi Liu, Zhen Qin, Junru Wu, Jiaming Shen, Misha Khalman, Rishabh Joshi, Yao Zhao, Mohammad Saleh, Simon Baumgartner, Jialu Liu, Peter J. Liu, Xuanhui Wang* [\[paper\]](https://arxiv.org/abs/2402.01878)
 
-  [LIRE: listwise reward enhancement for preference alignment (2024.5)  [\[paper\]](https://arxiv.org/abs/2405.13516)
+  **LIRE: listwise reward enhancement for preference alignment (2024.5)** *Mingye Zhu, Yi Liu, Lei Zhang, Junbo Guo, Zhendong Mao* [\[paper\]](https://arxiv.org/abs/2405.13516)
 ### 3.4 Training-Free Methods
-  [Black-Box Prompt Optimization: Aligning Large Language Models without Model Training (2023.11)  [\[paper\]](https://arxiv.org/abs/2311.04155)
+  **Black-Box Prompt Optimization: Aligning Large Language Models without Model Training (2023.11)** *Jiale Cheng, Xiao Liu, Kehan Zheng, Pei Ke, Hongning Wang, Yuxiao Dong, Jie Tang, Minlie Huang* [\[paper\]](https://arxiv.org/abs/2311.04155)
 
-  [The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context Learning (2023.12)  [\[paper\]](https://arxiv.org/abs/2312.01552)
+  **The Unlocking Spell on Base LLMs: Rethinking Alignment via In-Context Learning (2023.12)** *Bill Yuchen Lin, Abhilasha Ravichander, Ximing Lu, Nouha Dziri, Melanie Sclar, Khyathi Chandu, Chandra Bhagavatula, Yejin Choi* [\[paper\]](https://arxiv.org/abs/2312.01552)
 
-  [ICDPO: Effectively Borrowing Alignment Capability of Others via In-context Direct Preference Optimization (2024.2)  [\[paper\]](https://arxiv.org/abs/2402.09320)
+  **ICDPO: Effectively Borrowing Alignment Capability of Others via In-context Direct Preference Optimization (2024.2)** *Feifan Song, Yuxuan Fan, Xin Zhang, Peiyi Wang, Houfeng Wang* [\[paper\]](https://arxiv.org/abs/2402.09320)
 
-  [Aligner: Efficient Alignment by Learning to Correct (2024.2)  [\[paper\]](https://arxiv.org/abs/2402.09320)
+  **Aligner: Efficient Alignment by Learning to Correct (2024.2)** *Jiaming Ji, Boyuan Chen, Hantao Lou, Donghai Hong, Borong Zhang, Xuehai Pan, Juntao Dai, Tianyi Qiu, Yaodong Yang* [\[paper\]](https://arxiv.org/abs/2402.02416)
 
-  [RAIN: Your Language Models Can Align Themselves without Finetuning (2023.9)  [\[paper\]](https://arxiv.org/abs/2309.07124)
+  **RAIN: Your Language Models Can Align Themselves without Finetuning (2023.9)** *Yuhui Li, Fangyun Wei, Jinjing Zhao, Chao Zhang, Hongyang Zhang* [\[paper\]](https://arxiv.org/abs/2309.07124)
 
-  [Reward-Augmented Decoding: Efficient Controlled Text Generation With a Unidirectional Reward Model (2023.10)  [\[paper\]](https://arxiv.org/abs/2310.09520)
+  **Reward-Augmented Decoding: Efficient Controlled Text Generation With a Unidirectional Reward Model (2023.10)** *Haikang Deng, Colin Raffel* [\[paper\]](https://arxiv.org/abs/2310.09520)
 
-  [Controlled Decoding from Language Models (2023.10)  [\[paper\]](https://arxiv.org/abs/2310.17022)
+  **Controlled Decoding from Language Models (2023.10)** *Sidharth Mudgal, Jong Lee, Harish Ganapathy, YaGuang Li, Tao Wang, Yanping Huang, Zhifeng Chen, Heng-Tze Cheng, Michael Collins, Trevor Strohman, Jilin Chen, Alex Beutel, Ahmad Beirami* [\[paper\]](https://arxiv.org/abs/2310.17022)
 
-  [DeAL: Decoding-time Alignment for Large Language Models (2024.2)  [\[paper\]](https://arxiv.org/abs/2402.06147)
+  **DeAL: Decoding-time Alignment for Large Language Models (2024.2)** *James Y. Huang, Sailik Sengupta, Daniele Bonadiman, Yi-an Lai, Arshit Gupta, Nikolaos Pappas, Saab Mansour, Katrin Kirchhoff, Dan Roth* [\[paper\]](https://arxiv.org/abs/2402.06147)
 
-  [Decoding-time Realignment of Language Models (2024.2)  [\[paper\]](https://arxiv.org/abs/2402.02992)
+  **Decoding-time Realignment of Language Models (2024.2)** *Tianlin Liu, Shangmin Guo, Leonardo Bianco, Daniele Calandriello, Quentin Berthet, Felipe Llinares, Jessica Hoffmann, Lucas Dixon, Michal Valko, Mathieu Blondel* [\[paper\]](https://arxiv.org/abs/2402.02992)
 ## 4. Evaluation
 ### 4.1 Rule Based
 > Rule-based benchmarks are traditional benchmarks that span various domains such as reasoning, translation, dialogue, question-answering, code generation, and more. We won't list them all individually.
 ### 4.2 LLM based
-  [G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment (2023.3)  [\[paper\]](https://arxiv.org/abs/2303.16634)
+  **G-Eval: NLG Evaluation using GPT-4 with Better Human Alignment (2023.3)** *Yang Liu, Dan Iter, Yichong Xu, Shuohang Wang, Ruochen Xu, Chenguang Zhu* [\[paper\]](https://arxiv.org/abs/2303.16634)
 
-  [Automated Evaluation of Personalized Text Generation using Large Language Models (2023.10)  [\[paper\]](https://arxiv.org/abs/2310.11593)
+  **Automated Evaluation of Personalized Text Generation using Large Language Models (2023.10)** *Yaqing Wang, Jiepu Jiang, Mingyang Zhang, Cheng Li, Yi Liang, Qiaozhu Mei, Michael Bendersky* [\[paper\]](https://arxiv.org/abs/2310.11593)
 
-  [Multi-Dimensional Evaluation of Text Summarization with In-Context Learning (2023.6)  [\[paper\]](https://arxiv.org/abs/2306.01200)
+  **Multi-Dimensional Evaluation of Text Summarization with In-Context Learning (2023.6)** *Sameer Jain, Vaishakh Keshava, Swarnashree Mysore Sathyendra, Patrick Fernandes, Pengfei Liu, Graham Neubig, Chunting Zhou* [\[paper\]](https://arxiv.org/abs/2306.01200)
 
-  [Large Language Models Are State-of-the-Art Evaluators of Translation Quality (2023.2)  [\[paper\]](https://arxiv.org/abs/2302.14520)
+  **Large Language Models Are State-of-the-Art Evaluators of Translation Quality (2023.2)** *Tom Kocmi, Christian Federmann* [\[paper\]](https://arxiv.org/abs/2302.14520)
 
-  [Large Language Models are not Fair Evaluators (2023.5)  [\[paper\]](https://arxiv.org/abs/2305.17926)
+  **Large Language Models are not Fair Evaluators (2023.5)** *Peiyi Wang, Lei Li, Liang Chen, Zefan Cai, Dawei Zhu, Binghuai Lin, Yunbo Cao, Qi Liu, Tianyu Liu, Zhifang Sui* [\[paper\]](https://arxiv.org/abs/2305.17926)
 
-  [Generative Judge for Evaluating Alignment (2023.10)  [\[paper\]](https://arxiv.org/abs/2310.05470)
+  **Generative Judge for Evaluating Alignment (2023.10)** *Junlong Li, Shichao Sun, Weizhe Yuan, Run-Ze Fan, Hai Zhao, Pengfei Liu* [\[paper\]](https://arxiv.org/abs/2310.05470)
 
-  [Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena (2023.6)  [\[paper\]](https://arxiv.org/abs/2306.05685)
+  **Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena (2023.6)** *Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao Zhuang, Zi Lin, Zhuohan Li, Dacheng Li, Eric P. Xing, Hao Zhang, Joseph E. Gonzalez, Ion Stoica* [\[paper\]](https://arxiv.org/abs/2306.05685)
 
-  [Prometheus: Inducing Fine-grained Evaluation Capability in Language Models (2023.10)  [\[paper\]](https://arxiv.org/abs/2310.08491)
+  **Prometheus: Inducing Fine-grained Evaluation Capability in Language Models (2023.10)** *Seungone Kim, Jamin Shin, Yejin Cho, Joel Jang, Shayne Longpre, Hwaran Lee, Sangdoo Yun, Seongjin Shin, Sungdong Kim, James Thorne, Minjoon Seo* [\[paper\]](https://arxiv.org/abs/2310.08491)
 
-  [PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization (2023.6)  [\[paper\]](https://arxiv.org/abs/2306.05087)
+  **PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization (2023.6)** *PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization* [\[paper\]](https://arxiv.org/abs/2306.05087)
 
-  [PRD: Peer Rank and Discussion Improve Large Language Model based Evaluations (2023.7)  [\[paper\]](https://arxiv.org/abs/2307.02762)
+  **PRD: Peer Rank and Discussion Improve Large Language Model based Evaluations (2023.7)** *Ruosen Li, Teerth Patel, Xinya Du* [\[paper\]](https://arxiv.org/abs/2307.02762)
 
-  [Evaluating Large Language Models at Evaluating Instruction Following (2023.10)  [\[paper\]](https://arxiv.org/abs/2310.07641)
+  **Evaluating Large Language Models at Evaluating Instruction Following (2023.10)** *Zhiyuan Zeng, Jiatong Yu, Tianyu Gao, Yu Meng, Tanya Goyal, Danqi Chen* [\[paper\]](https://arxiv.org/abs/2310.07641)
 
-  [Wider and Deeper LLM Networks are Fairer LLM Evaluators (2023.8)  [\[paper\]](https://arxiv.org/abs/2308.01862)
+  **Wider and Deeper LLM Networks are Fairer LLM Evaluators (2023.8)** *Xinghua Zhang, Bowen Yu, Haiyang Yu, Yangyu Lv, Tingwen Liu, Fei Huang, Hongbo Xu, Yongbin Li* [\[paper\]](https://arxiv.org/abs/2308.01862)
 
 
 # 🌟Contribute
