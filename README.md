@@ -1,5 +1,7 @@
 # 📢 Introduction
-The official repository of our survey paper: "[**Towards a Unified View of Preference Learning for Large Language Models: A Survey**](https://arxiv.org/abs/2409.02795)".
+The official repository of our survey paper: "[**Towards a Unified View of Preference Learning for Large Language Models: A Survey**](https://arxiv.org/abs/2409.02795)". 
+
+> ❗ Please submit a **PR** or send an mail to [Bofei](gaobofei@stu.pku.edu.cn) if you wanna add your paper to the list, we will also include the paper in the next version of our survey.
 
 
 <div style="text-align: center;">
