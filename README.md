@@ -215,6 +215,8 @@ This repo contains a curated list of [📙Awesome LLM Preference Learning Papers
   **LiPO: Listwise Preference Optimization through Learning-to-Rank (2024.2)** *Tianqi Liu, Zhen Qin, Junru Wu, Jiaming Shen, Misha Khalman, Rishabh Joshi, Yao Zhao, Mohammad Saleh, Simon Baumgartner, Jialu Liu, Peter J. Liu, Xuanhui Wang* [\[paper\]](https://arxiv.org/abs/2402.01878)
 
   **LIRE: listwise reward enhancement for preference alignment (2024.5)** *Mingye Zhu, Yi Liu, Lei Zhang, Junbo Guo, Zhendong Mao* [\[paper\]](https://arxiv.org/abs/2405.13516)
+
+  **LPOI: Listwise Preference Optimization for Vision Language Models (2025.5)** *Fatemeh Pesaran Zadeh, Yoojin Oh, Gunhee Kim* [\[paper\]](https://arxiv.org/abs/2505.21061)
 ### 3.4 Training-Free Methods
   **Black-Box Prompt Optimization: Aligning Large Language Models without Model Training (2023.11)** *Jiale Cheng, Xiao Liu, Kehan Zheng, Pei Ke, Hongning Wang, Yuxiao Dong, Jie Tang, Minlie Huang* [\[paper\]](https://arxiv.org/abs/2311.04155)
 
