@@ -41,6 +41,8 @@ This repo contains a curated list of [📙Awesome LLM Preference Learning Papers
 
   **Regularized Best-of-N Sampling to Mitigate Reward Hacking for Language Model Alignment (2024.6)** *Yuu Jinnai, Tetsuro Morimura, Kaito Ariu, Kenshi Abe* [\[paper\]](https://arxiv.org/abs/2404.01054)
 
+  **Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization (2025.8)** *Shaohua Duan, Pengcheng Huang, Xinze Li, Zhenghao Liu, Xiaoyuan Yi, Yukun Yan, Shuo Wang, Yu Gu, Ge Yu, Maosong Sun* [\[paper\]](https://arxiv.org/abs/2508.13993)
+
 #### Monte-Carlo Tree Search based Methods:
   > MCTS-based methods are commonly found in tasks involving complex reasoning, making them particularly promising for applications in mathematics, code generation, and general reasoning.
   
